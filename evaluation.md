@@ -18,7 +18,7 @@ Prueba práctica desarrollada en un repositorio Git personal del candidato, entr
 ### Pasos previos
 
 1. Crear una base de datos relacional (SQLite, PostgreSQL o MySQL) para la aplicación.
-2. Crear una estrategia de insersion de los datos contenidos en el archivo `data.json` a la base de datos relacional, utilizando un script o comando personalizado.
+2. Crear una estrategia de insersion de los datos contenidos en el archivo [`data.json`](./data.json) a la base de datos relacional, utilizando un script o comando personalizado.
 
 ### Parte 1: Desarrollo backend
 
